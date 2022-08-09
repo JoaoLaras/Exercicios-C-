@@ -1,0 +1,11 @@
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\exercício do URI Online Judge\bin\Debug\netcoreapp3.1\exercício do URI Online Judge.exe
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\exercício do URI Online Judge\bin\Debug\netcoreapp3.1\exercício do URI Online Judge.deps.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\exercício do URI Online Judge\bin\Debug\netcoreapp3.1\exercício do URI Online Judge.runtimeconfig.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\exercício do URI Online Judge\bin\Debug\netcoreapp3.1\exercício do URI Online Judge.runtimeconfig.dev.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\exercício do URI Online Judge\bin\Debug\netcoreapp3.1\exercício do URI Online Judge.dll
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\exercício do URI Online Judge\bin\Debug\netcoreapp3.1\exercício do URI Online Judge.pdb
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\exercício do URI Online Judge\obj\Debug\netcoreapp3.1\exercício do URI Online Judge.csprojAssemblyReference.cache
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\exercício do URI Online Judge\obj\Debug\netcoreapp3.1\exercício do URI Online Judge.AssemblyInfoInputs.cache
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\exercício do URI Online Judge\obj\Debug\netcoreapp3.1\exercício do URI Online Judge.AssemblyInfo.cs
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\exercício do URI Online Judge\obj\Debug\netcoreapp3.1\exercício do URI Online Judge.dll
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\exercício do URI Online Judge\obj\Debug\netcoreapp3.1\exercício do URI Online Judge.pdb

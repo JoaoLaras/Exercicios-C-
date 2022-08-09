@@ -1,0 +1,11 @@
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp3.1\PrimeiroProjeto.exe
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp3.1\PrimeiroProjeto.deps.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp3.1\PrimeiroProjeto.runtimeconfig.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp3.1\PrimeiroProjeto.runtimeconfig.dev.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp3.1\PrimeiroProjeto.dll
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp3.1\PrimeiroProjeto.pdb
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp3.1\PrimeiroProjeto.csprojAssemblyReference.cache
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp3.1\PrimeiroProjeto.AssemblyInfoInputs.cache
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp3.1\PrimeiroProjeto.AssemblyInfo.cs
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp3.1\PrimeiroProjeto.dll
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp3.1\PrimeiroProjeto.pdb

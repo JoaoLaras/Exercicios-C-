@@ -1,0 +1,11 @@
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1005\Exercicio1005\Exercicio1005\obj\Debug\netcoreapp3.1\Exercicio1005.AssemblyInfoInputs.cache
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1005\Exercicio1005\Exercicio1005\obj\Debug\netcoreapp3.1\Exercicio1005.AssemblyInfo.cs
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1005\Exercicio1005\Exercicio1005\bin\Debug\netcoreapp3.1\Exercicio1005.exe
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1005\Exercicio1005\Exercicio1005\bin\Debug\netcoreapp3.1\Exercicio1005.deps.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1005\Exercicio1005\Exercicio1005\bin\Debug\netcoreapp3.1\Exercicio1005.runtimeconfig.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1005\Exercicio1005\Exercicio1005\bin\Debug\netcoreapp3.1\Exercicio1005.runtimeconfig.dev.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1005\Exercicio1005\Exercicio1005\bin\Debug\netcoreapp3.1\Exercicio1005.dll
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1005\Exercicio1005\Exercicio1005\bin\Debug\netcoreapp3.1\Exercicio1005.pdb
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1005\Exercicio1005\Exercicio1005\obj\Debug\netcoreapp3.1\Exercicio1005.dll
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1005\Exercicio1005\Exercicio1005\obj\Debug\netcoreapp3.1\Exercicio1005.pdb
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1005\Exercicio1005\Exercicio1005\obj\Debug\netcoreapp3.1\Exercicio1005.csprojAssemblyReference.cache

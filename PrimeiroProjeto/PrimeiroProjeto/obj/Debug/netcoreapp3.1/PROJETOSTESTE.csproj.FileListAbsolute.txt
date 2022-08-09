@@ -1,0 +1,11 @@
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp3.1\PROJETOSTESTE.exe
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp3.1\PROJETOSTESTE.deps.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp3.1\PROJETOSTESTE.runtimeconfig.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp3.1\PROJETOSTESTE.runtimeconfig.dev.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp3.1\PROJETOSTESTE.dll
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp3.1\PROJETOSTESTE.pdb
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp3.1\PROJETOSTESTE.csprojAssemblyReference.cache
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp3.1\PROJETOSTESTE.AssemblyInfoInputs.cache
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp3.1\PROJETOSTESTE.AssemblyInfo.cs
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp3.1\PROJETOSTESTE.dll
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp3.1\PROJETOSTESTE.pdb

@@ -1,0 +1,11 @@
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Entrada de dados em C# (PARTE 2)\ExerciciodeFixação\ExerciciodeFixação\obj\Debug\netcoreapp3.1\ExerciciodeFixação.AssemblyInfoInputs.cache
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Entrada de dados em C# (PARTE 2)\ExerciciodeFixação\ExerciciodeFixação\obj\Debug\netcoreapp3.1\ExerciciodeFixação.AssemblyInfo.cs
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Entrada de dados em C# (PARTE 2)\ExerciciodeFixação\ExerciciodeFixação\bin\Debug\netcoreapp3.1\ExerciciodeFixação.exe
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Entrada de dados em C# (PARTE 2)\ExerciciodeFixação\ExerciciodeFixação\bin\Debug\netcoreapp3.1\ExerciciodeFixação.deps.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Entrada de dados em C# (PARTE 2)\ExerciciodeFixação\ExerciciodeFixação\bin\Debug\netcoreapp3.1\ExerciciodeFixação.runtimeconfig.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Entrada de dados em C# (PARTE 2)\ExerciciodeFixação\ExerciciodeFixação\bin\Debug\netcoreapp3.1\ExerciciodeFixação.runtimeconfig.dev.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Entrada de dados em C# (PARTE 2)\ExerciciodeFixação\ExerciciodeFixação\bin\Debug\netcoreapp3.1\ExerciciodeFixação.dll
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Entrada de dados em C# (PARTE 2)\ExerciciodeFixação\ExerciciodeFixação\bin\Debug\netcoreapp3.1\ExerciciodeFixação.pdb
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Entrada de dados em C# (PARTE 2)\ExerciciodeFixação\ExerciciodeFixação\obj\Debug\netcoreapp3.1\ExerciciodeFixação.dll
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Entrada de dados em C# (PARTE 2)\ExerciciodeFixação\ExerciciodeFixação\obj\Debug\netcoreapp3.1\ExerciciodeFixação.pdb
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Entrada de dados em C# (PARTE 2)\ExerciciodeFixação\ExerciciodeFixação\obj\Debug\netcoreapp3.1\ExerciciodeFixação.csprojAssemblyReference.cache

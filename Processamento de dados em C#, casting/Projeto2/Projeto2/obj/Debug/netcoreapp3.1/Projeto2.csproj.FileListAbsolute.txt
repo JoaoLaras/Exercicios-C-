@@ -1,0 +1,10 @@
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Processamento de dados em C#, casting\Projeto2\Projeto2\obj\Debug\netcoreapp3.1\Projeto2.AssemblyInfoInputs.cache
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Processamento de dados em C#, casting\Projeto2\Projeto2\obj\Debug\netcoreapp3.1\Projeto2.AssemblyInfo.cs
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Processamento de dados em C#, casting\Projeto2\Projeto2\bin\Debug\netcoreapp3.1\Projeto2.exe
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Processamento de dados em C#, casting\Projeto2\Projeto2\bin\Debug\netcoreapp3.1\Projeto2.deps.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Processamento de dados em C#, casting\Projeto2\Projeto2\bin\Debug\netcoreapp3.1\Projeto2.runtimeconfig.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Processamento de dados em C#, casting\Projeto2\Projeto2\bin\Debug\netcoreapp3.1\Projeto2.runtimeconfig.dev.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Processamento de dados em C#, casting\Projeto2\Projeto2\bin\Debug\netcoreapp3.1\Projeto2.dll
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Processamento de dados em C#, casting\Projeto2\Projeto2\bin\Debug\netcoreapp3.1\Projeto2.pdb
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Processamento de dados em C#, casting\Projeto2\Projeto2\obj\Debug\netcoreapp3.1\Projeto2.dll
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Processamento de dados em C#, casting\Projeto2\Projeto2\obj\Debug\netcoreapp3.1\Projeto2.pdb

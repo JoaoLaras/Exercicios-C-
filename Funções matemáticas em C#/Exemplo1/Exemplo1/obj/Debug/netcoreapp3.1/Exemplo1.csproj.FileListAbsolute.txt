@@ -1,0 +1,11 @@
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Funções matemáticas em C#\Exemplo1\Exemplo1\bin\Debug\netcoreapp3.1\Exemplo1.exe
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Funções matemáticas em C#\Exemplo1\Exemplo1\bin\Debug\netcoreapp3.1\Exemplo1.deps.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Funções matemáticas em C#\Exemplo1\Exemplo1\bin\Debug\netcoreapp3.1\Exemplo1.runtimeconfig.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Funções matemáticas em C#\Exemplo1\Exemplo1\bin\Debug\netcoreapp3.1\Exemplo1.runtimeconfig.dev.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Funções matemáticas em C#\Exemplo1\Exemplo1\bin\Debug\netcoreapp3.1\Exemplo1.dll
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Funções matemáticas em C#\Exemplo1\Exemplo1\bin\Debug\netcoreapp3.1\Exemplo1.pdb
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Funções matemáticas em C#\Exemplo1\Exemplo1\obj\Debug\netcoreapp3.1\Exemplo1.csprojAssemblyReference.cache
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Funções matemáticas em C#\Exemplo1\Exemplo1\obj\Debug\netcoreapp3.1\Exemplo1.AssemblyInfoInputs.cache
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Funções matemáticas em C#\Exemplo1\Exemplo1\obj\Debug\netcoreapp3.1\Exemplo1.AssemblyInfo.cs
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Funções matemáticas em C#\Exemplo1\Exemplo1\obj\Debug\netcoreapp3.1\Exemplo1.dll
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Funções matemáticas em C#\Exemplo1\Exemplo1\obj\Debug\netcoreapp3.1\Exemplo1.pdb
