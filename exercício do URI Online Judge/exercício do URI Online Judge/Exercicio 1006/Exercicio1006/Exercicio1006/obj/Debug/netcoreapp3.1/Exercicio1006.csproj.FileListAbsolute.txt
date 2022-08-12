@@ -8,3 +8,4 @@ E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do 
 E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio 1006\Exercicio1006\Exercicio1006\obj\Debug\netcoreapp3.1\Exercicio1006.AssemblyInfo.cs
 E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio 1006\Exercicio1006\Exercicio1006\obj\Debug\netcoreapp3.1\Exercicio1006.dll
 E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio 1006\Exercicio1006\Exercicio1006\obj\Debug\netcoreapp3.1\Exercicio1006.pdb
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio 1006\Exercicio1006\Exercicio1006\obj\Debug\netcoreapp3.1\Exercicio1006.csprojAssemblyReference.cache

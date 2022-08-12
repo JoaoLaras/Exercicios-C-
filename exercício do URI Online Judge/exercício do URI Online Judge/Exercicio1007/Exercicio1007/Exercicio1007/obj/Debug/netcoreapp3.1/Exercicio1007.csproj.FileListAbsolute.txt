@@ -1,0 +1,10 @@
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1007\Exercicio1007\Exercicio1007\bin\Debug\netcoreapp3.1\Exercicio1007.exe
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1007\Exercicio1007\Exercicio1007\bin\Debug\netcoreapp3.1\Exercicio1007.deps.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1007\Exercicio1007\Exercicio1007\bin\Debug\netcoreapp3.1\Exercicio1007.runtimeconfig.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1007\Exercicio1007\Exercicio1007\bin\Debug\netcoreapp3.1\Exercicio1007.runtimeconfig.dev.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1007\Exercicio1007\Exercicio1007\bin\Debug\netcoreapp3.1\Exercicio1007.dll
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1007\Exercicio1007\Exercicio1007\bin\Debug\netcoreapp3.1\Exercicio1007.pdb
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1007\Exercicio1007\Exercicio1007\obj\Debug\netcoreapp3.1\Exercicio1007.AssemblyInfoInputs.cache
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1007\Exercicio1007\Exercicio1007\obj\Debug\netcoreapp3.1\Exercicio1007.AssemblyInfo.cs
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1007\Exercicio1007\Exercicio1007\obj\Debug\netcoreapp3.1\Exercicio1007.dll
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1007\Exercicio1007\Exercicio1007\obj\Debug\netcoreapp3.1\Exercicio1007.pdb
