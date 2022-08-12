@@ -1,0 +1,28 @@
+﻿using System;
+using System.Globalization;
+namespace Exercicio1011_Casting
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            double Raio = double.Parse(Console.ReadLine());
+            double Formula = (4 / 3.0) * 3.14159 * Math.Pow(Raio, 3.0);
+            Console.WriteLine("VOLUME = " + Formula.ToString("F3", CultureInfo.InvariantCulture));
+            Console.ReadLine();
+        }   
+    }
+}
+//using System;
+//using System.Globalization;
+
+
+        
+            //double raio, volume;
+
+            //raio = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+            //volume = 4.0 / 3.0 * 3.14159 * raio * raio * raio;
+
+            //Console.WriteLine("VOLUME = " + volume.ToString("F3", CultureInfo.InvariantCulture));
+        

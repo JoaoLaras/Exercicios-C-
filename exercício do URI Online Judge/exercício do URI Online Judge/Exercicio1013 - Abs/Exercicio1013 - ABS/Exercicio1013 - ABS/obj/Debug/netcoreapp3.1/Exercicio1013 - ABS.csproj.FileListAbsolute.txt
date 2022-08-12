@@ -1,0 +1,10 @@
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1013 - Abs\Exercicio1013 - ABS\Exercicio1013 - ABS\bin\Debug\netcoreapp3.1\Exercicio1013 - ABS.exe
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1013 - Abs\Exercicio1013 - ABS\Exercicio1013 - ABS\bin\Debug\netcoreapp3.1\Exercicio1013 - ABS.deps.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1013 - Abs\Exercicio1013 - ABS\Exercicio1013 - ABS\bin\Debug\netcoreapp3.1\Exercicio1013 - ABS.runtimeconfig.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1013 - Abs\Exercicio1013 - ABS\Exercicio1013 - ABS\bin\Debug\netcoreapp3.1\Exercicio1013 - ABS.runtimeconfig.dev.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1013 - Abs\Exercicio1013 - ABS\Exercicio1013 - ABS\bin\Debug\netcoreapp3.1\Exercicio1013 - ABS.dll
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1013 - Abs\Exercicio1013 - ABS\Exercicio1013 - ABS\bin\Debug\netcoreapp3.1\Exercicio1013 - ABS.pdb
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1013 - Abs\Exercicio1013 - ABS\Exercicio1013 - ABS\obj\Debug\netcoreapp3.1\Exercicio1013 - ABS.AssemblyInfoInputs.cache
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1013 - Abs\Exercicio1013 - ABS\Exercicio1013 - ABS\obj\Debug\netcoreapp3.1\Exercicio1013 - ABS.AssemblyInfo.cs
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1013 - Abs\Exercicio1013 - ABS\Exercicio1013 - ABS\obj\Debug\netcoreapp3.1\Exercicio1013 - ABS.dll
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1013 - Abs\Exercicio1013 - ABS\Exercicio1013 - ABS\obj\Debug\netcoreapp3.1\Exercicio1013 - ABS.pdb
