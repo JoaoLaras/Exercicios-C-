@@ -1,0 +1,10 @@
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Estrutura condicional - EXEMPLO\Estrutura Condicional - COMPOSTA\Estrutura Condicional - COMPOSTA\bin\Debug\netcoreapp3.1\Estrutura Condicional - COMPOSTA.exe
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Estrutura condicional - EXEMPLO\Estrutura Condicional - COMPOSTA\Estrutura Condicional - COMPOSTA\bin\Debug\netcoreapp3.1\Estrutura Condicional - COMPOSTA.deps.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Estrutura condicional - EXEMPLO\Estrutura Condicional - COMPOSTA\Estrutura Condicional - COMPOSTA\bin\Debug\netcoreapp3.1\Estrutura Condicional - COMPOSTA.runtimeconfig.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Estrutura condicional - EXEMPLO\Estrutura Condicional - COMPOSTA\Estrutura Condicional - COMPOSTA\bin\Debug\netcoreapp3.1\Estrutura Condicional - COMPOSTA.runtimeconfig.dev.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Estrutura condicional - EXEMPLO\Estrutura Condicional - COMPOSTA\Estrutura Condicional - COMPOSTA\bin\Debug\netcoreapp3.1\Estrutura Condicional - COMPOSTA.dll
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Estrutura condicional - EXEMPLO\Estrutura Condicional - COMPOSTA\Estrutura Condicional - COMPOSTA\bin\Debug\netcoreapp3.1\Estrutura Condicional - COMPOSTA.pdb
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Estrutura condicional - EXEMPLO\Estrutura Condicional - COMPOSTA\Estrutura Condicional - COMPOSTA\obj\Debug\netcoreapp3.1\Estrutura Condicional - COMPOSTA.AssemblyInfoInputs.cache
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Estrutura condicional - EXEMPLO\Estrutura Condicional - COMPOSTA\Estrutura Condicional - COMPOSTA\obj\Debug\netcoreapp3.1\Estrutura Condicional - COMPOSTA.AssemblyInfo.cs
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Estrutura condicional - EXEMPLO\Estrutura Condicional - COMPOSTA\Estrutura Condicional - COMPOSTA\obj\Debug\netcoreapp3.1\Estrutura Condicional - COMPOSTA.dll
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Estrutura condicional - EXEMPLO\Estrutura Condicional - COMPOSTA\Estrutura Condicional - COMPOSTA\obj\Debug\netcoreapp3.1\Estrutura Condicional - COMPOSTA.pdb

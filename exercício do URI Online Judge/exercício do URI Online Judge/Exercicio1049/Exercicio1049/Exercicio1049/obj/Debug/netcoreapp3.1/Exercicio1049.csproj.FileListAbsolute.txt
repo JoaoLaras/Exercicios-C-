@@ -1,0 +1,11 @@
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1049\Exercicio1049\Exercicio1049\bin\Debug\netcoreapp3.1\Exercicio1049.exe
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1049\Exercicio1049\Exercicio1049\bin\Debug\netcoreapp3.1\Exercicio1049.deps.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1049\Exercicio1049\Exercicio1049\bin\Debug\netcoreapp3.1\Exercicio1049.runtimeconfig.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1049\Exercicio1049\Exercicio1049\bin\Debug\netcoreapp3.1\Exercicio1049.runtimeconfig.dev.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1049\Exercicio1049\Exercicio1049\bin\Debug\netcoreapp3.1\Exercicio1049.dll
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1049\Exercicio1049\Exercicio1049\bin\Debug\netcoreapp3.1\Exercicio1049.pdb
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1049\Exercicio1049\Exercicio1049\obj\Debug\netcoreapp3.1\Exercicio1049.csprojAssemblyReference.cache
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1049\Exercicio1049\Exercicio1049\obj\Debug\netcoreapp3.1\Exercicio1049.AssemblyInfoInputs.cache
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1049\Exercicio1049\Exercicio1049\obj\Debug\netcoreapp3.1\Exercicio1049.AssemblyInfo.cs
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1049\Exercicio1049\Exercicio1049\obj\Debug\netcoreapp3.1\Exercicio1049.dll
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1049\Exercicio1049\Exercicio1049\obj\Debug\netcoreapp3.1\Exercicio1049.pdb

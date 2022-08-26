@@ -1,0 +1,11 @@
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1014Enquanto\ExercicioURI1114\ExercicioURI1114\bin\Debug\netcoreapp3.1\ExercicioURI1114.exe
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1014Enquanto\ExercicioURI1114\ExercicioURI1114\bin\Debug\netcoreapp3.1\ExercicioURI1114.deps.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1014Enquanto\ExercicioURI1114\ExercicioURI1114\bin\Debug\netcoreapp3.1\ExercicioURI1114.runtimeconfig.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1014Enquanto\ExercicioURI1114\ExercicioURI1114\bin\Debug\netcoreapp3.1\ExercicioURI1114.runtimeconfig.dev.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1014Enquanto\ExercicioURI1114\ExercicioURI1114\bin\Debug\netcoreapp3.1\ExercicioURI1114.dll
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1014Enquanto\ExercicioURI1114\ExercicioURI1114\bin\Debug\netcoreapp3.1\ExercicioURI1114.pdb
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1014Enquanto\ExercicioURI1114\ExercicioURI1114\obj\Debug\netcoreapp3.1\ExercicioURI1114.csprojAssemblyReference.cache
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1014Enquanto\ExercicioURI1114\ExercicioURI1114\obj\Debug\netcoreapp3.1\ExercicioURI1114.AssemblyInfoInputs.cache
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1014Enquanto\ExercicioURI1114\ExercicioURI1114\obj\Debug\netcoreapp3.1\ExercicioURI1114.AssemblyInfo.cs
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1014Enquanto\ExercicioURI1114\ExercicioURI1114\obj\Debug\netcoreapp3.1\ExercicioURI1114.dll
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1014Enquanto\ExercicioURI1114\ExercicioURI1114\obj\Debug\netcoreapp3.1\ExercicioURI1114.pdb

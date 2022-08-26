@@ -1,0 +1,11 @@
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Extrutura Repetitiva ENQUANTO\Exemplo1\ExemploEstrutRepENQUANTO\ExemploEstrutRepENQUANTO\bin\Debug\netcoreapp3.1\ExemploEstrutRepENQUANTO.exe
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Extrutura Repetitiva ENQUANTO\Exemplo1\ExemploEstrutRepENQUANTO\ExemploEstrutRepENQUANTO\bin\Debug\netcoreapp3.1\ExemploEstrutRepENQUANTO.deps.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Extrutura Repetitiva ENQUANTO\Exemplo1\ExemploEstrutRepENQUANTO\ExemploEstrutRepENQUANTO\bin\Debug\netcoreapp3.1\ExemploEstrutRepENQUANTO.runtimeconfig.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Extrutura Repetitiva ENQUANTO\Exemplo1\ExemploEstrutRepENQUANTO\ExemploEstrutRepENQUANTO\bin\Debug\netcoreapp3.1\ExemploEstrutRepENQUANTO.runtimeconfig.dev.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Extrutura Repetitiva ENQUANTO\Exemplo1\ExemploEstrutRepENQUANTO\ExemploEstrutRepENQUANTO\bin\Debug\netcoreapp3.1\ExemploEstrutRepENQUANTO.dll
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Extrutura Repetitiva ENQUANTO\Exemplo1\ExemploEstrutRepENQUANTO\ExemploEstrutRepENQUANTO\bin\Debug\netcoreapp3.1\ExemploEstrutRepENQUANTO.pdb
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Extrutura Repetitiva ENQUANTO\Exemplo1\ExemploEstrutRepENQUANTO\ExemploEstrutRepENQUANTO\obj\Debug\netcoreapp3.1\ExemploEstrutRepENQUANTO.csprojAssemblyReference.cache
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Extrutura Repetitiva ENQUANTO\Exemplo1\ExemploEstrutRepENQUANTO\ExemploEstrutRepENQUANTO\obj\Debug\netcoreapp3.1\ExemploEstrutRepENQUANTO.AssemblyInfoInputs.cache
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Extrutura Repetitiva ENQUANTO\Exemplo1\ExemploEstrutRepENQUANTO\ExemploEstrutRepENQUANTO\obj\Debug\netcoreapp3.1\ExemploEstrutRepENQUANTO.AssemblyInfo.cs
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Extrutura Repetitiva ENQUANTO\Exemplo1\ExemploEstrutRepENQUANTO\ExemploEstrutRepENQUANTO\obj\Debug\netcoreapp3.1\ExemploEstrutRepENQUANTO.dll
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Extrutura Repetitiva ENQUANTO\Exemplo1\ExemploEstrutRepENQUANTO\ExemploEstrutRepENQUANTO\obj\Debug\netcoreapp3.1\ExemploEstrutRepENQUANTO.pdb

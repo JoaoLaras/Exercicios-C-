@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exercicio1020-IDADEemDias/1.0.0": {
+        "runtime": {
+          "Exercicio1020-IDADEemDias.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio1020-IDADEemDias/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

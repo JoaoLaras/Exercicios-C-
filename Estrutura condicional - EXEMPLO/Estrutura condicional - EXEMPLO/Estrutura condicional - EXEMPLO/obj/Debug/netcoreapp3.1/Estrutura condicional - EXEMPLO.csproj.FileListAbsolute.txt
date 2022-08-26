@@ -1,0 +1,11 @@
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Estrutura condicional - EXEMPLO\Estrutura condicional - EXEMPLO\Estrutura condicional - EXEMPLO\bin\Debug\netcoreapp3.1\Estrutura condicional - EXEMPLO.exe
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Estrutura condicional - EXEMPLO\Estrutura condicional - EXEMPLO\Estrutura condicional - EXEMPLO\bin\Debug\netcoreapp3.1\Estrutura condicional - EXEMPLO.deps.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Estrutura condicional - EXEMPLO\Estrutura condicional - EXEMPLO\Estrutura condicional - EXEMPLO\bin\Debug\netcoreapp3.1\Estrutura condicional - EXEMPLO.runtimeconfig.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Estrutura condicional - EXEMPLO\Estrutura condicional - EXEMPLO\Estrutura condicional - EXEMPLO\bin\Debug\netcoreapp3.1\Estrutura condicional - EXEMPLO.runtimeconfig.dev.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Estrutura condicional - EXEMPLO\Estrutura condicional - EXEMPLO\Estrutura condicional - EXEMPLO\bin\Debug\netcoreapp3.1\Estrutura condicional - EXEMPLO.dll
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Estrutura condicional - EXEMPLO\Estrutura condicional - EXEMPLO\Estrutura condicional - EXEMPLO\bin\Debug\netcoreapp3.1\Estrutura condicional - EXEMPLO.pdb
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Estrutura condicional - EXEMPLO\Estrutura condicional - EXEMPLO\Estrutura condicional - EXEMPLO\obj\Debug\netcoreapp3.1\Estrutura condicional - EXEMPLO.csprojAssemblyReference.cache
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Estrutura condicional - EXEMPLO\Estrutura condicional - EXEMPLO\Estrutura condicional - EXEMPLO\obj\Debug\netcoreapp3.1\Estrutura condicional - EXEMPLO.AssemblyInfoInputs.cache
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Estrutura condicional - EXEMPLO\Estrutura condicional - EXEMPLO\Estrutura condicional - EXEMPLO\obj\Debug\netcoreapp3.1\Estrutura condicional - EXEMPLO.AssemblyInfo.cs
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Estrutura condicional - EXEMPLO\Estrutura condicional - EXEMPLO\Estrutura condicional - EXEMPLO\obj\Debug\netcoreapp3.1\Estrutura condicional - EXEMPLO.dll
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Estrutura condicional - EXEMPLO\Estrutura condicional - EXEMPLO\Estrutura condicional - EXEMPLO\obj\Debug\netcoreapp3.1\Estrutura condicional - EXEMPLO.pdb

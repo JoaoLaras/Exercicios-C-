@@ -1,0 +1,11 @@
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Estrutura condicional - EXEMPLO\Estrutura CondicialExMenorNUM\ExEstruturaCondMenorNumero\ExEstruturaCondMenorNumero\obj\Debug\netcoreapp3.1\ExEstruturaCondMenorNumero.csprojAssemblyReference.cache
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Estrutura condicional - EXEMPLO\Estrutura CondicialExMenorNUM\ExEstruturaCondMenorNumero\ExEstruturaCondMenorNumero\obj\Debug\netcoreapp3.1\ExEstruturaCondMenorNumero.AssemblyInfoInputs.cache
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Estrutura condicional - EXEMPLO\Estrutura CondicialExMenorNUM\ExEstruturaCondMenorNumero\ExEstruturaCondMenorNumero\obj\Debug\netcoreapp3.1\ExEstruturaCondMenorNumero.AssemblyInfo.cs
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Estrutura condicional - EXEMPLO\Estrutura CondicialExMenorNUM\ExEstruturaCondMenorNumero\ExEstruturaCondMenorNumero\bin\Debug\netcoreapp3.1\ExEstruturaCondMenorNumero.exe
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Estrutura condicional - EXEMPLO\Estrutura CondicialExMenorNUM\ExEstruturaCondMenorNumero\ExEstruturaCondMenorNumero\bin\Debug\netcoreapp3.1\ExEstruturaCondMenorNumero.deps.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Estrutura condicional - EXEMPLO\Estrutura CondicialExMenorNUM\ExEstruturaCondMenorNumero\ExEstruturaCondMenorNumero\bin\Debug\netcoreapp3.1\ExEstruturaCondMenorNumero.runtimeconfig.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Estrutura condicional - EXEMPLO\Estrutura CondicialExMenorNUM\ExEstruturaCondMenorNumero\ExEstruturaCondMenorNumero\bin\Debug\netcoreapp3.1\ExEstruturaCondMenorNumero.runtimeconfig.dev.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Estrutura condicional - EXEMPLO\Estrutura CondicialExMenorNUM\ExEstruturaCondMenorNumero\ExEstruturaCondMenorNumero\bin\Debug\netcoreapp3.1\ExEstruturaCondMenorNumero.dll
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Estrutura condicional - EXEMPLO\Estrutura CondicialExMenorNUM\ExEstruturaCondMenorNumero\ExEstruturaCondMenorNumero\bin\Debug\netcoreapp3.1\ExEstruturaCondMenorNumero.pdb
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Estrutura condicional - EXEMPLO\Estrutura CondicialExMenorNUM\ExEstruturaCondMenorNumero\ExEstruturaCondMenorNumero\obj\Debug\netcoreapp3.1\ExEstruturaCondMenorNumero.dll
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Estrutura condicional - EXEMPLO\Estrutura CondicialExMenorNUM\ExEstruturaCondMenorNumero\ExEstruturaCondMenorNumero\obj\Debug\netcoreapp3.1\ExEstruturaCondMenorNumero.pdb

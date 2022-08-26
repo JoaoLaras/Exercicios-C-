@@ -1,0 +1,11 @@
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exemplo1046TEMPOJOGO\Exemplo1046\Exemplo1046\bin\Debug\netcoreapp3.1\Exemplo1046.exe
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exemplo1046TEMPOJOGO\Exemplo1046\Exemplo1046\bin\Debug\netcoreapp3.1\Exemplo1046.deps.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exemplo1046TEMPOJOGO\Exemplo1046\Exemplo1046\bin\Debug\netcoreapp3.1\Exemplo1046.runtimeconfig.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exemplo1046TEMPOJOGO\Exemplo1046\Exemplo1046\bin\Debug\netcoreapp3.1\Exemplo1046.runtimeconfig.dev.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exemplo1046TEMPOJOGO\Exemplo1046\Exemplo1046\bin\Debug\netcoreapp3.1\Exemplo1046.dll
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exemplo1046TEMPOJOGO\Exemplo1046\Exemplo1046\bin\Debug\netcoreapp3.1\Exemplo1046.pdb
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exemplo1046TEMPOJOGO\Exemplo1046\Exemplo1046\obj\Debug\netcoreapp3.1\Exemplo1046.csprojAssemblyReference.cache
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exemplo1046TEMPOJOGO\Exemplo1046\Exemplo1046\obj\Debug\netcoreapp3.1\Exemplo1046.AssemblyInfoInputs.cache
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exemplo1046TEMPOJOGO\Exemplo1046\Exemplo1046\obj\Debug\netcoreapp3.1\Exemplo1046.AssemblyInfo.cs
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exemplo1046TEMPOJOGO\Exemplo1046\Exemplo1046\obj\Debug\netcoreapp3.1\Exemplo1046.dll
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exemplo1046TEMPOJOGO\Exemplo1046\Exemplo1046\obj\Debug\netcoreapp3.1\Exemplo1046.pdb

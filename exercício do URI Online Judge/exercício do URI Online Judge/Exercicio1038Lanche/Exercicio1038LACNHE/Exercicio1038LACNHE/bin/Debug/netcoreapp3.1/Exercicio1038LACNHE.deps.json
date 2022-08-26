@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exercicio1038LACNHE/1.0.0": {
+        "runtime": {
+          "Exercicio1038LACNHE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio1038LACNHE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

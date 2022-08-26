@@ -1,0 +1,11 @@
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1038Lanche\Exercicio1038LACNHE\Exercicio1038LACNHE\obj\Debug\netcoreapp3.1\Exercicio1038LACNHE.csprojAssemblyReference.cache
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1038Lanche\Exercicio1038LACNHE\Exercicio1038LACNHE\obj\Debug\netcoreapp3.1\Exercicio1038LACNHE.AssemblyInfoInputs.cache
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1038Lanche\Exercicio1038LACNHE\Exercicio1038LACNHE\obj\Debug\netcoreapp3.1\Exercicio1038LACNHE.AssemblyInfo.cs
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1038Lanche\Exercicio1038LACNHE\Exercicio1038LACNHE\bin\Debug\netcoreapp3.1\Exercicio1038LACNHE.exe
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1038Lanche\Exercicio1038LACNHE\Exercicio1038LACNHE\bin\Debug\netcoreapp3.1\Exercicio1038LACNHE.deps.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1038Lanche\Exercicio1038LACNHE\Exercicio1038LACNHE\bin\Debug\netcoreapp3.1\Exercicio1038LACNHE.runtimeconfig.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1038Lanche\Exercicio1038LACNHE\Exercicio1038LACNHE\bin\Debug\netcoreapp3.1\Exercicio1038LACNHE.runtimeconfig.dev.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1038Lanche\Exercicio1038LACNHE\Exercicio1038LACNHE\bin\Debug\netcoreapp3.1\Exercicio1038LACNHE.dll
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1038Lanche\Exercicio1038LACNHE\Exercicio1038LACNHE\bin\Debug\netcoreapp3.1\Exercicio1038LACNHE.pdb
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1038Lanche\Exercicio1038LACNHE\Exercicio1038LACNHE\obj\Debug\netcoreapp3.1\Exercicio1038LACNHE.dll
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\exercício do URI Online Judge\exercício do URI Online Judge\Exercicio1038Lanche\Exercicio1038LACNHE\Exercicio1038LACNHE\obj\Debug\netcoreapp3.1\Exercicio1038LACNHE.pdb

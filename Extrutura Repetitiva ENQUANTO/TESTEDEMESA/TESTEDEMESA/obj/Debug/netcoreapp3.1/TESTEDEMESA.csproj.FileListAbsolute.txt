@@ -1,0 +1,11 @@
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Extrutura Repetitiva ENQUANTO\TESTEDEMESA\TESTEDEMESA\bin\Debug\netcoreapp3.1\TESTEDEMESA.exe
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Extrutura Repetitiva ENQUANTO\TESTEDEMESA\TESTEDEMESA\bin\Debug\netcoreapp3.1\TESTEDEMESA.deps.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Extrutura Repetitiva ENQUANTO\TESTEDEMESA\TESTEDEMESA\bin\Debug\netcoreapp3.1\TESTEDEMESA.runtimeconfig.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Extrutura Repetitiva ENQUANTO\TESTEDEMESA\TESTEDEMESA\bin\Debug\netcoreapp3.1\TESTEDEMESA.runtimeconfig.dev.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Extrutura Repetitiva ENQUANTO\TESTEDEMESA\TESTEDEMESA\bin\Debug\netcoreapp3.1\TESTEDEMESA.dll
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Extrutura Repetitiva ENQUANTO\TESTEDEMESA\TESTEDEMESA\bin\Debug\netcoreapp3.1\TESTEDEMESA.pdb
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Extrutura Repetitiva ENQUANTO\TESTEDEMESA\TESTEDEMESA\obj\Debug\netcoreapp3.1\TESTEDEMESA.csprojAssemblyReference.cache
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Extrutura Repetitiva ENQUANTO\TESTEDEMESA\TESTEDEMESA\obj\Debug\netcoreapp3.1\TESTEDEMESA.AssemblyInfoInputs.cache
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Extrutura Repetitiva ENQUANTO\TESTEDEMESA\TESTEDEMESA\obj\Debug\netcoreapp3.1\TESTEDEMESA.AssemblyInfo.cs
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Extrutura Repetitiva ENQUANTO\TESTEDEMESA\TESTEDEMESA\obj\Debug\netcoreapp3.1\TESTEDEMESA.dll
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Extrutura Repetitiva ENQUANTO\TESTEDEMESA\TESTEDEMESA\obj\Debug\netcoreapp3.1\TESTEDEMESA.pdb

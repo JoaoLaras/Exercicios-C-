@@ -1,0 +1,11 @@
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Estrutura condicional - EXEMPLO\EstrCondiExemplo1Bask\EstrutCondExBaskara\EstrutCondExBaskara\bin\Debug\netcoreapp3.1\EstrutCondExBaskara.exe
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Estrutura condicional - EXEMPLO\EstrCondiExemplo1Bask\EstrutCondExBaskara\EstrutCondExBaskara\bin\Debug\netcoreapp3.1\EstrutCondExBaskara.deps.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Estrutura condicional - EXEMPLO\EstrCondiExemplo1Bask\EstrutCondExBaskara\EstrutCondExBaskara\bin\Debug\netcoreapp3.1\EstrutCondExBaskara.runtimeconfig.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Estrutura condicional - EXEMPLO\EstrCondiExemplo1Bask\EstrutCondExBaskara\EstrutCondExBaskara\bin\Debug\netcoreapp3.1\EstrutCondExBaskara.runtimeconfig.dev.json
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Estrutura condicional - EXEMPLO\EstrCondiExemplo1Bask\EstrutCondExBaskara\EstrutCondExBaskara\bin\Debug\netcoreapp3.1\EstrutCondExBaskara.dll
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Estrutura condicional - EXEMPLO\EstrCondiExemplo1Bask\EstrutCondExBaskara\EstrutCondExBaskara\bin\Debug\netcoreapp3.1\EstrutCondExBaskara.pdb
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Estrutura condicional - EXEMPLO\EstrCondiExemplo1Bask\EstrutCondExBaskara\EstrutCondExBaskara\obj\Debug\netcoreapp3.1\EstrutCondExBaskara.csprojAssemblyReference.cache
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Estrutura condicional - EXEMPLO\EstrCondiExemplo1Bask\EstrutCondExBaskara\EstrutCondExBaskara\obj\Debug\netcoreapp3.1\EstrutCondExBaskara.AssemblyInfoInputs.cache
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Estrutura condicional - EXEMPLO\EstrCondiExemplo1Bask\EstrutCondExBaskara\EstrutCondExBaskara\obj\Debug\netcoreapp3.1\EstrutCondExBaskara.AssemblyInfo.cs
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Estrutura condicional - EXEMPLO\EstrCondiExemplo1Bask\EstrutCondExBaskara\EstrutCondExBaskara\obj\Debug\netcoreapp3.1\EstrutCondExBaskara.dll
+E:\ESTUDO PROGRAMACAO C#\ws-vs2019\Estrutura condicional - EXEMPLO\EstrCondiExemplo1Bask\EstrutCondExBaskara\EstrutCondExBaskara\obj\Debug\netcoreapp3.1\EstrutCondExBaskara.pdb
